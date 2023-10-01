@@ -1,0 +1,3 @@
+DEBUG=backend:*
+MONGO_URI=mongodb+srv://elevenstand7:A54ZnT8GAF8U1Ybi@mern.nxsicyt.mongodb.net/?retryWrites=true&w=majority
+SECRET_OR_KEY=W3oZXUH4BPlFlQ==
